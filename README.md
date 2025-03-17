@@ -10,7 +10,7 @@ Some images were taken from a repository, and the due credits are [at the end of
 
 ## Créditos/Credits
 
-![corporal](https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf =200x200)
+![corporal](https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf | width=100)
 
 "Corporal", by Delapouite, from game-icons.net under CC BY 3.0
 
