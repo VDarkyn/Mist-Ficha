@@ -12,7 +12,7 @@ Some images were taken from a repository, and the due credits are [at the end of
 
 ## Créditos/Credits
 
-<img src="https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf" data-canonical-src="https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf" data-canonical-src="https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf" width="200" height="200" /> <img src="https://github.com/user-attachments/assets/444361ca-e28d-4f13-ab08-b69bc1e1657c" data-canonical-src="https://github.com/user-attachments/assets/444361ca-e28d-4f13-ab08-b69bc1e1657c" width="200" height="200" /> <img src="https://github.com/user-attachments/assets/9a471cb7-b5c5-49de-8c06-da56d2399400" data-canonical-src="https://github.com/user-attachments/assets/9a471cb7-b5c5-49de-8c06-da56d2399400" width="200" height="200" /> <img src="https://github.com/user-attachments/assets/13e41215-1e0f-426e-8eab-0b4605ded6ca" data-canonical-src="https://github.com/user-attachments/assets/13e41215-1e0f-426e-8eab-0b4605ded6ca" width="200" height="200" />
 
 "Corporal", by [Delapouite](https://delapouite.com/), from [game-icons.net](https://game-icons.net/1x1/delapouite/corporal.html) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
