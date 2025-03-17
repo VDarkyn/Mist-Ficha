@@ -1,13 +1,16 @@
 # Fichas de Legend in the Mist
 [PT-BR](https://github.com/VvDarkvV/Mist-Ficha/blob/main/README.md#pt-br) | [EN](https://github.com/VvDarkvV/Mist-Ficha/blob/main/README.md#en)
 ## PT-BR
-As imagens e direitos autorais de **Legend in the Mist**, usadas na ficha de forma transformativa, pertencem a seus criadores e o estúdio **Son of Oak**, e o conteúdo dessa ficha, bem como o criador dela, não tem relações com o estúdio, nem com os criadores ou a produção de Legend in the Mist.
-Algumas imagens foram retiradas de um repositório, e os devidos créditos estão no final desse texto.
+As imagens e direitos autorais de **Legend in the Mist**, usadas na ficha de forma transformativa, pertencem a seus criadores e o estúdio **Son of Oak**, e o conteúdo dessa ficha, bem como o criador dela, não tem relações com o estúdio, nem com os criadores ou a produção de **Legend in the Mist**.
+Algumas imagens foram retiradas de um repositório, e os devidos créditos estão [no final desse texto]().
 
 ## EN
+The images and copyrights of **Legend in the Mist**, used in the sheet in a transformative way, belong to its creators and the studio **Son of Oak**, and the content of this sheet, as well as its creator, have no relationship with the studio, nor with the creators or the production of **Legend in the Mist**.
+Some images were taken from a repository, and the due credits are [at the end of this text]().
 
+## Créditos/Credits
 
-![corporal](https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf)
+![corporal](https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf =200x200)
 
 "Corporal", by Delapouite, from game-icons.net under CC BY 3.0
 
