@@ -1,10 +1,10 @@
-## Fichas de Legend in the Mist
-
-# PT-BR
+# Fichas de Legend in the Mist
+[PT-BR](https://github.com/VvDarkvV/Mist-Ficha/blob/main/README.md#pt-br) | [EN](https://github.com/VvDarkvV/Mist-Ficha/blob/main/README.md#en)
+## PT-BR
 As imagens e direitos autorais de **Legend in the Mist**, usadas na ficha de forma transformativa, pertencem a seus criadores e o estúdio **Son of Oak**, e o conteúdo dessa ficha, bem como o criador dela, não tem relações com o estúdio, nem com os criadores ou a produção de Legend in the Mist.
 Algumas imagens foram retiradas de um repositório, e os devidos créditos estão no final desse texto.
 
-# EN
+## EN
 
 
 ![corporal](https://github.com/user-attachments/assets/1123860c-fb7b-41e0-8807-40cad75c76cf)
