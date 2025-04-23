@@ -3,13 +3,13 @@
 [PT-BR](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#pt-br) | [EN](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#en) | [Créditos/Credits](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#cr%C3%A9ditoscredits)
 
 ## PT-BR
-As imagens e direitos autorais de **Legend in the Mist**, usadas na ficha de forma transformativa, pertencem a seus criadores e o estúdio **Son of Oak**, e o conteúdo dessa ficha, bem como o criador dela, não tem relações com o estúdio, nem com os criadores ou a produção de **Legend in the Mist**.
+As imagens e direitos autorais de **Legend in the Mist**, usadas nas fichas de forma transformativa, pertencem a seus criadores e o estúdio **Son of Oak**, e o conteúdo dessa ficha, bem como o criador dela, não tem relações com o estúdio, nem com os criadores ou a produção de **Legend in the Mist**.
 
 Algumas imagens foram retiradas de um repositório, e os devidos créditos estão [no final desta página](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#cr%C3%A9ditoscredits).
 
 
 ## EN
-The images and copyrights of **Legend in the Mist**, used in the sheet in a transformative way, belong to its creators and the studio **Son of Oak**, and the content of this sheet, as well as its creator, have no relationship with the studio, nor with the creators or the production of **Legend in the Mist**.
+The images and copyrights of **Legend in the Mist**, used in the sheets in a transformative way, belong to its creators and the studio **Son of Oak**, and the content of this sheet, as well as its creator, have no relationship with the studio, nor with the creators or the production of **Legend in the Mist**.
 
 Some images were taken from a repository, and the due credits are [at the end of this page](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#cr%C3%A9ditoscredits).
 
