@@ -1,4 +1,4 @@
-![skull-crack](https://github.com/user-attachments/assets/72a6eccb-13bf-42a6-8de5-9ddb4caa992e)# Fichas de Legend in the Mist
+# Fichas de Legend in the Mist
 **Summary**
 [PT-BR](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#pt-br) | [EN](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#en) | [Créditos/Credits](https://github.com/VDarkyn/Mist-Ficha/blob/main/README.md#cr%C3%A9ditoscredits)
 
